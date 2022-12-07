@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+Mike Lips
+Fakka
+Mike Lips
+=======
 
 
 <<<<<<< HEAD
@@ -20,3 +25,4 @@ Groen
 
 Van der Werf
 van Dis
+>>>>>>> develop
