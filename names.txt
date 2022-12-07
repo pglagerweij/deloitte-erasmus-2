@@ -15,5 +15,24 @@ Michal ROzalski
 
 Groen
 
+<<<<<<< HEAD
 Van der Werf
 van Dis
+=======
+
+
+Sven Groen :)
+
+
+
+
+
+
+
+
+
+
+
+
+FEYENOORD! 
+>>>>>>> branch2
