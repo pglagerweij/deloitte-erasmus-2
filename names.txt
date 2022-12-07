@@ -1,10 +1,38 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
 
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+Mike Lips
+Fakka
+Mike Lips
+=======
+ John Doe
+>>>>>>> test99
 
+<<<<<<< HEAD
 
+Michal Rozalski
+<<<<<<< HEAD
+Big boss Marius
+=======
+Argentina for the win
+Messi is nothing compared to Denzel Dumfries
 
+LewanGOALski
+>>>>>>> Feature_Michal
+=======
 
+>>>>>>> 0f45718316e6847528cad30a77b34fd39a7df397
 
 
 Groen
-
+ggeef geld
+<<<<<<< HEAD
 Van der Werf
+van Dis
+=======
+Initial Names for this repo
+Vivian de Kok
+>>>>>>> 7feb7b6a78464771762eb230392bd1abc9bbb6f1
