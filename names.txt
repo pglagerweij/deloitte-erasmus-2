@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Mike Lips
 Fakka
 Mike Lips
@@ -36,3 +37,6 @@ Sven Groen :)
 
 FEYENOORD! 
 >>>>>>> branch2
+=======
+Initial Name
+>>>>>>> ec04083 (Name added)
