@@ -1,26 +1,23 @@
+Legends represent
+=======
 Initial Name
 Vicky Boziki
 
-
-<<<<<<< HEAD
+Gakpo Sucks
 
 Michal Rozalski
-<<<<<<< HEAD
 Big boss Marius
 =======
 Argentina for the win
 Messi is nothing compared to Denzel Dumfries
 
 LewanGOALski
->>>>>>> Feature_Michal
 =======
 
->>>>>>> 0f45718316e6847528cad30a77b34fd39a7df397
 Mike
 
 Groen
 ggeef geld
-<<<<<<< HEAD
 Van der Werf
 
 
@@ -36,7 +33,6 @@ Van der Werf
 
 
 FEYENOORD! 
->>>>>>> branch2
 =======
 Initial Name
 Mohamed Orban
