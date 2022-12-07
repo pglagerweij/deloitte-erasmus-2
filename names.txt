@@ -1,4 +1,4 @@
-
+regel 1 is de mooiste regel
 
 <<<<<<< HEAD
 
@@ -6,6 +6,7 @@ Michal Rozalski
 <<<<<<< HEAD
 Big boss Marius
 =======
+
 Argentina for the win
 Messi is nothing compared to Denzel Dumfries
 
