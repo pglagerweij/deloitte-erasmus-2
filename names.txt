@@ -1,3 +1,27 @@
+<<<<<<< HEAD
 Mike Lips
 Fakka
 Mike Lips
+=======
+
+
+<<<<<<< HEAD
+
+Michal Rozalski
+<<<<<<< HEAD
+Big boss Marius
+=======
+Argentina for the win
+
+Michal ROzalski
+>>>>>>> Feature_Michal
+=======
+
+>>>>>>> 0f45718316e6847528cad30a77b34fd39a7df397
+
+
+Groen
+
+Van der Werf
+van Dis
+>>>>>>> develop
