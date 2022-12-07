@@ -1,21 +1,19 @@
+<<<<<<< HEAD
+Mike Lips
+Fakka
+Mike Lips
+=======
 
 
 
 
+Michal ROzalski
+>>>>>>> Feature_Michal
+=======
 
 
 
 Groen
 
 Van der Werf
-
-
-
-
-
-
-
-
-
-
-Sven Groen :)
+van Dis
