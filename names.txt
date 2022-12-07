@@ -1,28 +1,47 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Mike Lips
 Fakka
 Mike Lips
 =======
 
 
-<<<<<<< HEAD
 
-Michal Rozalski
-<<<<<<< HEAD
-Big boss Marius
-=======
-Argentina for the win
-Messi is nothing compared to Denzel Dumfries
 
-Michal ROzalski
+Adriaan Zantman
 >>>>>>> Feature_Michal
 =======
 
+<<<<<<< HEAD
 >>>>>>> 0f45718316e6847528cad30a77b34fd39a7df397
 Mike
+=======
+
+>>>>>>> b81a2214c51d5d28069a67990cca2cc3aeb00637
 
 Groen
 
+<<<<<<< HEAD
 Van der Werf
 van Dis
->>>>>>> develop
+=======
+
+
+Sven Groen :)
+
+
+
+
+
+
+
+
+
+
+
+
+FEYENOORD! 
+>>>>>>> branch2
+=======
+Initial Name
+>>>>>>> ec04083 (Name added)
